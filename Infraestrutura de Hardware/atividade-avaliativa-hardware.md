@@ -1,4 +1,4 @@
-#  Atividade Avaliativa: Hardware, Memória, Armazenamento e Tecnologias Modernas
+#  UC1 Atividade Avaliativa: Hardware, Memória, Armazenamento e Tecnologias Modernas
 
 Gabarito oficial das atividades desenvolvidas para a fixação de conceitos sobre arquitetura de computadores e barramentos.
 
