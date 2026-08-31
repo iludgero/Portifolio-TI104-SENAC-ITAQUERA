@@ -1,4 +1,4 @@
-#  UC1 - Fundamentos de Hardware, Elétrica e Montagem
+#  UC1 Fundamentos de Hardware, Elétrica e Montagem
 
 Conteúdos desenvolvidos com o professor Urquiza sobre a infraestrutura física dos computadores, eletrônica e boas práticas de montagem.
 
