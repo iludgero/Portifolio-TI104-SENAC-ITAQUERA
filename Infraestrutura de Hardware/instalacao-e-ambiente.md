@@ -1,4 +1,4 @@
-#  UC1 - Infraestrutura, Equipamentos e Documentação de Instalação
+#  UC1 Infraestrutura, Equipamentos e Documentação de Instalação
 
 Conteúdos da Aula 2 com o professor Urquiza, focados no mercado de trabalho, ferramentas de teste, riscos elétricos, preparação do ambiente físico e interpretação de documentos técnicos.
 
