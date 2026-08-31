@@ -1,4 +1,4 @@
-# O Que Todo Técnico Precisa Saber
+# UC1 O Que Todo Técnico Precisa Saber
 
 O mercado de hardware evoluiu drasticamente nos últimos anos. Novos protocolos, conectores e padrões de segurança redefinem o que significa montar, manter e diagnosticar dispositivos modernos. Este guia cobre as tecnologias essenciais que todo profissional de TI precisa dominar hoje.
 
