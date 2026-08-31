@@ -1,0 +1,259 @@
+# UC1 História dos Processadores AMD e Intel
+
+## Introdução
+
+A história dos processadores AMD e Intel acompanha praticamente toda a evolução dos computadores pessoais. Desde os primeiros chips de 4 bits dos anos 70 até os atuais processadores híbridos com inteligência artificial integrada, as duas empresas passaram décadas competindo em desempenho, eficiência, preço e inovação.
+
+Este resumo apresenta as principais gerações de processadores das duas fabricantes, explicando:
+* Ano de lançamento
+* Características técnicas
+* Diferenças em relação à geração anterior
+* Principais usos
+* Impacto histórico
+
+---
+
+## 1970: O nascimento dos microprocessadores
+
+### Intel 4004 (1971)
+Primeiro microprocessador comercial da história.
+
+* **Características:**
+  * Arquitetura de 4 bits
+  * 740 kHz
+  * Aproximadamente 2.300 transistores
+* **Uso principal:** Calculadoras e sistemas embarcados.
+* **Diferença em relação ao anterior:** Antes dele, computadores utilizavam vários circuitos separados para realizar o processamento. O 4004 reuniu tudo em um único chip.
+
+### Intel 8008 (1972)
+* **Melhorias:**
+  * Arquitetura de 8 bits
+  * Maior capacidade de processamento
+  * Mais instruções
+* **Uso principal:** Terminais de computador e sistemas eletrônicos simples.
+* **Diferença em relação ao 4004:** Maior poder computacional e mais flexibilidade.
+
+### Intel 8080 (1974)
+Primeiro processador amplamente utilizado em computadores pessoais iniciais.
+
+* **Características:**
+  * 8 bits
+  * Desempenho muito superior ao 8008
+* **Uso principal:** Computadores hobbyistas e Altair 8800.
+* **Importância:** Foi um dos chips que ajudaram a iniciar a era dos computadores pessoais.
+
+### AMD Am2900 (1975)
+Primeira família importante da AMD.
+
+* **Características:**
+  * Arquitetura modular de 4 bits
+  * Design flexível
+* **Uso principal:** Controle industrial, equipamentos militares e telecomunicações.
+* **Diferença:** A AMD ainda não competia diretamente com a Intel em PCs. Produzia chips compatíveis e licenciados.
+
+---
+
+## Anos 1980: O nascimento da arquitetura x86
+
+### Intel 8086 (1978)
+Processador que originou a arquitetura x86.
+
+* **Características:**
+  * Arquitetura de 16 bits
+  * Maior capacidade de memória
+* **Uso principal:** IBM PCs e computadores empresariais.
+* **Importância:** A arquitetura x86 continua sendo utilizada até hoje em computadores modernos.
+
+### Intel 80286 (1982)
+* **Melhorias:**
+  * Modo protegido
+  * Gerenciamento de memória melhorado
+  * Multitarefa mais eficiente
+* **Uso principal:** Computadores corporativos.
+* **Diferença em relação ao 8086:** Mais estabilidade e segurança no processamento.
+
+### AMD Am286 (1982)
+Versão compatível do Intel 286 produzida pela AMD.
+
+* **Características:** Compatibilidade total com software x86.
+* **Uso principal:** Computadores de baixo custo.
+* **Diferença:** A AMD ganhou destaque oferecendo versões mais baratas dos chips Intel.
+
+### Intel 80386 (1985)
+Grande avanço tecnológico.
+
+* **Características:**
+  * Arquitetura de 32 bits
+  * Memória virtual
+  * Multitarefa avançada
+* **Uso principal:** Workstations e computadores avançados.
+* **Diferença em relação ao 286:** Muito mais desempenho e capacidade multitarefa.
+
+### AMD 29000 (1987)
+Arquitetura RISC própria da AMD.
+
+* **Uso principal:** Sistemas embarcados, impressoras e telecomunicações.
+* **Importância:** Mostrou a tentativa da AMD de criar arquiteturas independentes da Intel.
+
+### Intel 80486 (1989)
+* **Melhorias:**
+  * Cache integrado
+  * Coprocessador matemático integrado
+  * Pipeline aprimorado
+* **Uso principal:** PCs domésticos, engenharia e aplicações gráficas.
+* **Diferença em relação ao 386:** Maior desempenho por clock e melhor eficiência.
+
+---
+
+## Anos 1990: Início da grande rivalidade
+
+### Intel Pentium (1993)
+Uma das linhas mais famosas da história.
+
+* **Características:**
+  * Arquitetura superscalar
+  * Dois pipelines de execução
+* **Uso principal:** Computadores domésticos, Windows 95 e jogos.
+* **Diferença em relação ao 486:** Grande salto em desempenho multimídia.
+
+### AMD K5 (1995)
+Primeiro processador x86 desenvolvido internamente pela AMD.
+
+* **Características:** Compatibilidade com Pentium.
+* **Problema:** Desempenho inferior em comparação direta com a Intel.
+
+### Intel Pentium Pro (1995)
+Voltado para servidores e estações de trabalho.
+
+* **Características:**
+  * Execução fora de ordem
+  * Cache avançado
+* **Uso principal:** Servidores e aplicações profissionais.
+
+### AMD K6 (1997)
+Primeiro grande sucesso comercial da AMD.
+
+* **Melhorias:**
+  * Suporte MMX
+  * Ótimo custo-benefício
+* **Uso principal:** Computadores domésticos.
+* **Diferença em relação ao K5:** Muito mais competitivo frente aos Pentium II.
+
+### Intel Pentium II (1997)
+* **Melhorias:**
+  * Melhor desempenho 3D
+  * Arquitetura refinada
+* **Uso principal:** Jogos e multimídia.
+
+### Intel Celeron (1998)
+Linha de entrada da Intel.
+
+* **Uso principal:** Computadores baratos, escritórios e escolas.
+
+### AMD Athlon K7 (1999)
+Processador que colocou a AMD em competição direta com a Intel.
+
+* **Características:**
+  * Excelente desempenho matemático
+  * Clocks agressivos
+* **Uso principal:** Jogos e usuários avançados.
+* **Diferença em relação ao K6:** Grande aumento de desempenho.
+
+---
+
+## Anos 2000: A corrida pelo GHz
+
+### AMD Athlon 1 GHz (2000)
+Primeiro processador comercial a atingir 1 GHz.
+
+* **Importância:** A AMD superou temporariamente a Intel em desempenho.
+
+### Intel Pentium 4 (2000)
+Arquitetura NetBurst.
+
+* **Características:**
+  * Clocks extremamente altos
+  * Pipeline muito longo
+* **Problemas:**
+  * Alto consumo energético
+  * Aquecimento excessivo
+* **Uso principal:** Desktops de alto desempenho.
+
+### AMD Athlon XP (2001)
+* **Características:** Maior eficiência por clock.
+* **Diferença em relação ao Pentium 4:** Conseguia desempenho semelhante usando clocks menores.
+
+### Intel Itanium (2001)
+Tentativa da Intel de substituir o x86.
+
+* **Resultado:** Fracasso comercial devido à baixa compatibilidade.
+
+### AMD Opteron (2003)
+Marco importante na computação moderna.
+
+* **Características:**
+  * Suporte a 64 bits
+  * Controlador de memória integrado
+* **Uso principal:** Servidores.
+* **Importância:** A AMD criou a base do padrão x86-64 utilizado atualmente.
+
+### AMD Athlon 64 (2003)
+* **Melhorias:**
+  * Suporte 64 bits
+  * HyperTransport
+* **Uso principal:** Jogos e usuários avançados.
+* **Diferença em relação ao Athlon XP:** Maior eficiência e suporte moderno.
+
+### AMD Sempron (2004)
+Linha de entrada da AMD.
+
+* **Características:**
+  * Cache reduzido
+  * Menor custo
+  * Versões posteriores com 64 bits
+* **Uso principal:** Computadores baratos, escolas e escritórios.
+* **Diferença em relação ao Duron:** Mais eficiente e posteriormente compatível com 64 bits.
+
+### Intel Core Duo (2006)
+Intel abandona a arquitetura NetBurst.
+
+* **Características:**
+  * Foco em eficiência energética
+  * Múltiplos núcleos
+* **Diferença em relação ao Pentium 4:** Muito mais eficiente e frio.
+
+### Intel Core 2 Duo (2006)
+Uma das arquiteturas mais importantes da Intel.
+
+* **Características:**
+  * Alto IPC
+  * Baixo consumo
+* **Uso principal:** Jogos, notebooks e produtividade.
+* **Diferença em relação ao Core Duo:** Desempenho significativamente maior.
+
+---
+
+## Anos 2010: Domínio Intel e crise da AMD
+
+### Intel Sandy Bridge (2011)
+* **Características:**
+  * Excelente desempenho por núcleo
+  * Ótimo potencial de overclock
+* **Uso principal:** Jogos e produtividade.
+
+### AMD FX Bulldozer (2011)
+Arquitetura muito polêmica.
+
+* **Características:**
+  * Muitos núcleos
+  * Arquitetura modular
+* **Problemas:**
+  * IPC baixo
+  * Desempenho fraco em jogos
+* **Diferença em relação ao Phenom II:** Mais núcleos, mas pior eficiência.
+
+### Intel Haswell (2013)
+* **Melhorias:**
+  * Maior eficiência energética
+  * Gráficos integrados melhores
+
