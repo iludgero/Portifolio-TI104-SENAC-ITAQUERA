@@ -1,4 +1,4 @@
-# Placa-mãe, Chipset e Barramentos
+# UC1 Placa-mãe, Chipset e Barramentos
 A **placa-mãe** é o principal circuito do computador, interligando todos os componentes. O **chipset** megerencia a comunicação entre processador, memória, armazenamento e periféricos. Conhecer conectores e barramentos é essencial para montagem e diagnóstico.
 ---
 ## 1. Componentes da Placa-mãe
